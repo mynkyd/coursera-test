@@ -1,3 +1,2 @@
 # coursera-test
-Coursera test respository
-# It is wonderful day hah!
+Coursera test respository. It is wonderful day hah!
